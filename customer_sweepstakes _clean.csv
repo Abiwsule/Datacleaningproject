@@ -1,0 +1,11 @@
+sweepstakes_id, customer_id, phone, birth_date, address, street, city, state, total_money_spent, income, Are you over 18?
+1,100101,635-573-9754,28/04/1989,"1229 Main Street, Scranton, PA",1229 Main Street,Scranton,PA,11000,100000,Yes
+3,100102,729-287-9456,11/04/1965,"123 North Hill Drive, Dallas, TX",123 North Hill Drive,Dallas,TX,947,75000,Yes
+4,100103,126-583-7856,07/02/1999,"432 Hilly Road, Austin, Tx",432 Hilly Road,Austin,TX,534,60000,Yes
+5,100104,975-357-7663,22/04/1921,"101 Alpine Avenue, New York, NY",101 Alpine Avenue,New York,NY,3567,,Yes
+6,100105,,07/11/1948,"12 South Main Lane, San Francisco, CA",12 South Main Lane,San Francisco,CA,195,105000,Yes
+7,100106,,04/09/2001,"1 Pastery Lane, Chicago, IL",1 Pastery Lane,Chicago,IL,56,50000,Yes
+9,100107,235-357-3464,20/08/1978,"987 Croissant Street, Scranton, Pa",987 Croissant Street,Scranton,PA,2536,30000,Yes
+10,100108,906-485-1542,06/07/2006,"701 North Street, Sarasota, FL",701 North Street,Sarasota,FL,1009,65000,Yes
+11,100109,674-357-9151,30/05/1987,"62810 Julip Lane, Scranton, PA",62810 Julip Lane,Scranton,PA,540,,Yes
+12,100110,346-458-3370,15/10/1934,"122 South Street, Charleston, SC",122 South Street,Charleston,SC,36,45000,Yes
